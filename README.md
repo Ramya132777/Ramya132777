@@ -20,7 +20,6 @@ A web-based student portal developed using HTML, CSS, and JavaScript.
 A basic project demonstrating CI/CD concepts using GitHub.
 
 ## 📜 Certifications
-## 📜 Certifications
 - Data Science Certification
 - AWS Cloud Certification
 - Python Certification
